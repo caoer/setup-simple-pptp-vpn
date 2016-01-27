@@ -116,8 +116,8 @@ refuse-chap
 refuse-mschap
 require-mschap-v2
 require-mppe-128
-ms-dns 8.8.8.8
-ms-dns 8.8.4.4
+ms-dns 208.67.222.123
+ms-dns 208.67.220.123
 proxyarp
 lock
 nobsdcomp 
